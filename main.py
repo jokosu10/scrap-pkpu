@@ -25,5 +25,3 @@ for d in data:
     i += 1
 
 print(waktu_sholat)
-
-print(waktu_sholat['maghrib'])
